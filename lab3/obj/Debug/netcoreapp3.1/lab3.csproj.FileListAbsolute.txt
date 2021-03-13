@@ -1,0 +1,13 @@
+E:\KPI\NET\labs\dotnet_lab3\lab3\bin\Debug\netcoreapp3.1\lab3.exe
+E:\KPI\NET\labs\dotnet_lab3\lab3\bin\Debug\netcoreapp3.1\lab3.deps.json
+E:\KPI\NET\labs\dotnet_lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.json
+E:\KPI\NET\labs\dotnet_lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.dev.json
+E:\KPI\NET\labs\dotnet_lab3\lab3\bin\Debug\netcoreapp3.1\lab3.dll
+E:\KPI\NET\labs\dotnet_lab3\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
+E:\KPI\NET\labs\dotnet_lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csprojAssemblyReference.cache
+E:\KPI\NET\labs\dotnet_lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+E:\KPI\NET\labs\dotnet_lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+E:\KPI\NET\labs\dotnet_lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.CoreCompileInputs.cache
+E:\KPI\NET\labs\dotnet_lab3\lab3\obj\Debug\netcoreapp3.1\lab3.dll
+E:\KPI\NET\labs\dotnet_lab3\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
+E:\KPI\NET\labs\dotnet_lab3\lab3\obj\Debug\netcoreapp3.1\lab3.genruntimeconfig.cache
